@@ -1,0 +1,22 @@
+{
+  "name": "servidor-expressjs-basico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danirupe/servidor-expressjs-basico.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danirupe/servidor-expressjs-basico/issues"
+  },
+  "homepage": "https://github.com/danirupe/servidor-expressjs-basico#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
